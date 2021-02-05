@@ -1,7 +1,7 @@
-# Lauterbach Python Wrapper
+# Lauterbach Python Library
 
 ## Overview
-This is a python wrapper that I built for Lauterbach Trace32. Have fun. :)
+This is a python library that I built for Lauterbach Trace32. Have fun. :)
 
 ## Instructions
 #### Configuring Lauterbach helper library
